@@ -12,5 +12,5 @@
     "valign"
   ],
   "license": "MIT",
-  "main": "_tipi.component.valign.scss"
+  "main": "_tipi.base.valign.scss"
 }
