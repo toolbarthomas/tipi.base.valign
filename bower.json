@@ -1,0 +1,16 @@
+{
+  "name": "tipi.component.valign",
+  "homepage": "https://github.com/toolbarthomas/tipi.component.valign",
+  "authors": [
+    "Thomas van der Velde <contact@toolbarthomas.net>"
+  ],
+  "description": "Vertically align elements within another element ",
+  "keywords": [
+    "toolbarthomas",
+    "modular",
+    "tipi",
+    "valign"
+  ],
+  "license": "MIT",
+  "main": "_tipi.component.valign.scss"
+}
