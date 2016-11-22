@@ -12,10 +12,8 @@
 		height: 100%;
 		width: 100%;
 		vertical-align: middle;
-	}
 
-	.valign--bottom {
-		> .valign-body {
+		.valign--bottom > & {
 			vertical-align: bottom;
 		}
 	}
